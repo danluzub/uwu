@@ -9,6 +9,7 @@ const cupImg = document.getElementById("letter-cup");
 const buttons = document.getElementById("letter-buttons");
 const finalText = document.getElementById("final-text");
 
+
 // Click Envelope
 
 envelope.addEventListener("click", () => {
